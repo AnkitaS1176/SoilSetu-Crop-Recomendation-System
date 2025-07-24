@@ -27,6 +27,8 @@ Click the "Recommend" button to see the suggested crop.
 For Disease Prediction:
 Go to the "Disease Prediction" section.
 Upload an image of a plant leaf.
+<img width="768" height="1408" alt="Google_AI_Studio_2025-07-24T15_30_16 597Z" src="https://github.com/user-attachments/assets/709c083a-02c4-4958-921b-1feedfe0db11" />
+
 The model will analyze the image and display the predicted disease.[7]
 For Soil Fertility Check:
 Select the "Soil Fertility" tab.
@@ -36,10 +38,13 @@ The system will provide an analysis of your soil's fertility status.
 📊 Datasets
 Crop Recommendation: The model was trained on an augmented dataset combining rainfall, climate, and fertilizer data for various crops.[2] You can find a similar dataset on Kaggle.
 Disease Prediction: The disease prediction model was trained on the PlantVillage Dataset, which contains thousands of images of healthy and diseased plant leaves across numerous species.[3]
+
 📈 Future Scope
 Incorporate a fertilizer recommendation system based on soil nutrient deficiencies.
 Integrate real-time weather data using APIs.
 Expand the disease prediction model to cover a wider variety of plants and diseases.
 Provide detailed information and potential remedies for detected diseases.
+<img width="768" height="1408" alt="Google_AI_Studio_2025-07-24T15_31_48 361Z" src="https://github.com/user-attachments/assets/87fa05bd-4c2e-4d7f-9e65-34a71e89b130" />
+
 🤝 Contributing
 Contributions are welcome! If you have ideas for improvements or want to fix a bug, please feel free to open an issue or submit a pull request.
